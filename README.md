@@ -11,6 +11,9 @@ collection of articles, repos, notes related to ML research papers
 * [What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)
 * [What are some must-read ML papers for newcomers wanting to advance in the field?](https://www.reddit.com/r/MachineLearning/comments/8myq5z/discussion_what_are_some_mustread_ml_papers_for/)
 
+## Notes
+
+## Paper Discovery Tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk1OTYyOTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMDAzMzA0NCwtMjExOTU5NjI5NF19
 -->
