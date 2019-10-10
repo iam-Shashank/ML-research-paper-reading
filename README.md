@@ -12,6 +12,7 @@ collection of articles, repos, notes related to ML research papers
 * [What are some must-read ML papers for newcomers wanting to advance in the field?](https://www.reddit.com/r/MachineLearning/comments/8myq5z/discussion_what_are_some_mustread_ml_papers_for/)
 
 ## Notes
+* [DongjunLee/notes: ](https://github.com/DongjunLee/notes)
 
 ## Paper Discovery Tools
 <!--stackedit_data:
